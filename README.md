@@ -1,3 +1,3 @@
 # KAAFB
 Cybersecurity!
-https://koagbav.github.io/KAAFB/
+https://KAAFB.github.io
